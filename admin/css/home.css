@@ -1,0 +1,51 @@
+#main-container .row {
+  margin-top: 100px;
+  width: 100%;
+}
+
+.row .map {
+  margin-left: 500px;
+  position: relative;
+}
+
+#main-container #main-contents {
+  width: 100%;
+  float: left;
+}
+.dot {
+  position: absolute;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+}
+
+.lagos {
+  background: red;
+  top: 250px;
+  left: 40px;
+}
+
+.aks {
+  background: red;
+  top: 310px;
+  left: 160px;
+}
+
+.kano {
+  background: red;
+  top: 85px;
+  left: 195px;
+}
+
+.delta {
+  background: red;
+  top: 290px;
+  left: 90px;
+}
+
+.footer {
+  background: #58B1FC;
+  margin-top: 200px;
+  color: #FFF;
+  padding: 15px 20px;
+}
