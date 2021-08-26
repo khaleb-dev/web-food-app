@@ -186,7 +186,7 @@
 							</div>
 							<div class="form-two">
 								  <select name="downState" required>
-								    <option value="">-- State --</option>
+								    <option value="">-- Location --</option>
                                     <?PHP 
 										$sql = "SELECT * FROM state";
 										$stmt = $dbh->query($sql);
@@ -198,7 +198,7 @@
 										<option value="<?PHP echo $state['id'] ?>"><?PHP echo $state['name'] ?></option>
                                        <?PHP } ?>
 									</select>
-									<input type="text" required name="txtAddress" placeholder="Address *">
+									<input type="text" name="txtAddress" placeholder="Address">
 									<input type="text" required name="txtPhoneNo" placeholder="Phone No *">
 									<input type="text" name="txtFax" placeholder="Fax">
 								

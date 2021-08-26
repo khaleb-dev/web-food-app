@@ -82,7 +82,7 @@ CREATE TABLE IF NOT EXISTS `wishlist`(
 
 CREATE TABLE IF NOT EXISTS `state` (
   `id` int(5) NOT NULL AUTO_INCREMENT,
-  `name` varchar(30) NOT NULL,
+  `name` varchar(100) NOT NULL,
   PRIMARY KEY (`id`)
 );
 
@@ -95,7 +95,7 @@ CREATE TABLE IF NOT EXISTS `billing_detail`(
   `first_name` VARCHAR(50) NOT NULL,
   `middle_name` VARCHAR(50) NULL,
   `last_name` VARCHAR(50) NOT NULL,
-  `address` VARCHAR(100) NOT NULL,
+  `address` VARCHAR(100) NULL,
   `phone_no` VARCHAR(20) NOT NULL,
   `fax` VARCHAR(20) NULL,
   `special_note` VARCHAR(200) NOT NULL,
@@ -148,42 +148,17 @@ CREATE TABLE IF NOT EXISTS `shopping_cart` (
 --
 
 INSERT INTO `state` (`id`, `name`) VALUES
-(1, 'Cross River'),
-(2, 'Anambra'),
-(3, 'Abuja F.C.T'),
-(4, 'Adamawa'),
-(5, 'Bauchi'),
-(6, 'Enugu'),
-(7, 'Akwa Ibom'),
-(8, 'Rivers'),
-(9, 'Abia'),
-(10, 'Imo'),
-(11, 'Bayelsa'),
-(12, 'Delta'),
-(13, 'Ebonyi'),
-(14, 'Edo'),
-(15, 'Gombe'),
-(16, 'Lagos'),
-(17, 'Kano'),
-(18, 'Sokoto'),
-(19, 'Benue'),
-(20, 'Kaduna'),
-(21, 'Katsina'),
-(22, 'Jigawa'),
-(23, 'Borno'),
-(24, 'Ekiti'),
-(25, 'Nasarawa'),
-(26, 'Kebbi'),
-(27, 'Kogi'),
-(28, 'Kwarra'),
-(29, 'Niger'),
-(30, 'Ogun'),
-(31, 'Ondo'),
-(32, 'Osun'),
-(33, 'Oyo'),
-(34, 'Plateau'),
-(35, 'Taraba'),
-(36, 'Yobe'),
-(37, 'Zamfara');
+(1, 'Main gate security post'),
+(2, 'Back gate security post'),
+(3, 'Hospital'),
+(4, 'Secondary school premises'),
+(5, 'Faculty of Basic Medical Science'),
+(6, 'Faculty of Humanities and social sciences'),
+(7, 'Faculty of Law'),
+(8, 'Faculty of Natural and applied science'),
+(9, 'Main Male hostel'),
+(10, 'Main Female Hostel'),
+(11, 'Male Staff Quarters'),
+(12, 'Female Staff Quarters');
 
 INSERT INTO `user` VALUE(NULL, 1, 'GodsPower', 'admin', 'admin', NOW(), NOW());
