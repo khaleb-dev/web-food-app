@@ -127,44 +127,130 @@
 							<li data-target="#slider-carousel" data-slide-to="0" class="active"></li>
 							<li data-target="#slider-carousel" data-slide-to="1"></li>
 							<li data-target="#slider-carousel" data-slide-to="2"></li>
+							<li data-target="#slider-carousel" data-slide-to="3"></li>
+							<li data-target="#slider-carousel" data-slide-to="4"></li>
+							<li data-target="#slider-carousel" data-slide-to="5"></li>
+							<li data-target="#slider-carousel" data-slide-to="6"></li>
+							<li data-target="#slider-carousel" data-slide-to="7"></li>
+							<li data-target="#slider-carousel" data-slide-to="8"></li>
 						</ol>
 						
 						<div class="carousel-inner">
+							<!-- slide 01 -->
 							<div class="item active">
 								<div class="col-sm-6">
-									<h1><span>E</span>-SHOPPER</h1>
+									<h1><span>JARVEX</span></h1>
 									<h2>Everything in One Place</h2>
 									<p>Shop for quality products from best designers around the world in one place. </p>
 									<button type="button" class="btn btn-default get">Get it now</button>
 								</div>
 								<div class="col-sm-6">
-									<img src="images/home/girl1.jpg" class="girl img-responsive" alt="" />
-									<img src="images/home/pricing.png"  class="pricing" alt="" />
+									<img src="images/home/slide01.jpeg" class="girl img-responsive" alt="" />
+									<!-- <img src="images/home/pricing.png"  class="pricing" alt="" /> -->
 								</div>
 							</div>
+							<!-- slide 02 -->
 							<div class="item">
 								<div class="col-sm-6">
-									<h1><span>E</span>-SHOPPER</h1>
+									<h1><span>JARVEX</span></h1>
 									<h2>100% Quality Designs</h2>
 									<p>Shop for quality products from best designers around the world in one place. </p>
 									<button type="button" class="btn btn-default get">Get it now</button>
 								</div>
 								<div class="col-sm-6">
-									<img src="images/home/girl2.jpg" class="girl img-responsive" alt="" />
-									<img src="images/home/pricing.png"  class="pricing" alt="" />
+									<img src="images/home/slide02.jpeg" class="girl img-responsive" alt="" />
+									<!-- <img src="images/home/pricing.png"  class="pricing" alt="" /> -->
 								</div>
 							</div>
-							
+							<!-- slide 03 -->
 							<div class="item">
 								<div class="col-sm-6">
-									<h1><span>E</span>-SHOPPER</h1>
+									<h1><span>JARVEX</span></h1>
 									<h2>One Stop Shop</h2>
 									<p>Shop for quality products from best designers around the world in one place. </p>
 									<button type="button" class="btn btn-default get">Get it now</button>
 								</div>
 								<div class="col-sm-6">
-									<img src="images/home/girl3.jpg" class="girl img-responsive" alt="" />
-									<img src="images/home/pricing.png" class="pricing" alt="" />
+									<img src="images/home/slide03.jpeg" class="girl img-responsive" alt="" />
+									<!-- <img src="images/home/pricing.png" class="pricing" alt="" /> -->
+								</div>
+							</div>
+							<!-- slide 05 -->
+							<div class="item">
+								<div class="col-sm-6">
+									<h1><span>JARVEX</span></h1>
+									<h2>One Stop Shop</h2>
+									<p>Shop for quality products from best designers around the world in one place. </p>
+									<button type="button" class="btn btn-default get">Get it now</button>
+								</div>
+								<div class="col-sm-6">
+									<img src="images/home/slide05.jpeg" class="girl img-responsive" alt="" />
+									<!-- <img src="images/home/pricing.png" class="pricing" alt="" /> -->
+								</div>
+							</div>
+							<!-- slide 06 -->
+							<div class="item">
+								<div class="col-sm-6">
+									<h1><span>JARVEX</span></h1>
+									<h2>One Stop Shop</h2>
+									<p>Shop for quality products from best designers around the world in one place. </p>
+									<button type="button" class="btn btn-default get">Get it now</button>
+								</div>
+								<div class="col-sm-6">
+									<img src="images/home/slide06.jpeg" class="girl img-responsive" alt="" />
+									<!-- <img src="images/home/pricing.png" class="pricing" alt="" /> -->
+								</div>
+							</div>
+							<!-- slide 07 -->
+							<div class="item">
+								<div class="col-sm-6">
+									<h1><span>JARVEX</span></h1>
+									<h2>One Stop Shop</h2>
+									<p>Shop for quality products from best designers around the world in one place. </p>
+									<button type="button" class="btn btn-default get">Get it now</button>
+								</div>
+								<div class="col-sm-6">
+									<img src="images/home/slide07.jpeg" class="girl img-responsive" alt="" />
+									<!-- <img src="images/home/pricing.png" class="pricing" alt="" /> -->
+								</div>
+							</div>
+							<!-- slide 08 -->
+							<div class="item">
+								<div class="col-sm-6">
+									<h1><span>JARVEX</span></h1>
+									<h2>One Stop Shop</h2>
+									<p>Shop for quality products from best designers around the world in one place. </p>
+									<button type="button" class="btn btn-default get">Get it now</button>
+								</div>
+								<div class="col-sm-6">
+									<img src="images/home/slide08.jpeg" class="girl img-responsive" alt="" />
+									<!-- <img src="images/home/pricing.png" class="pricing" alt="" /> -->
+								</div>
+							</div>
+							<!-- slide 09 -->
+							<div class="item">
+								<div class="col-sm-6">
+									<h1><span>JARVEX</span></h1>
+									<h2>One Stop Shop</h2>
+									<p>Shop for quality products from best designers around the world in one place. </p>
+									<button type="button" class="btn btn-default get">Get it now</button>
+								</div>
+								<div class="col-sm-6">
+									<img src="images/home/slide09.jpeg" class="girl img-responsive" alt="" />
+									<!-- <img src="images/home/pricing.png" class="pricing" alt="" /> -->
+								</div>
+							</div>
+							<!-- slide 10 -->
+							<div class="item">
+								<div class="col-sm-6">
+									<h1><span>JARVEX</span></h1>
+									<h2>One Stop Shop</h2>
+									<p>Shop for quality products from best designers around the world in one place. </p>
+									<button type="button" class="btn btn-default get">Get it now</button>
+								</div>
+								<div class="col-sm-6">
+									<img src="images/home/slide10.jpeg" class="girl img-responsive" alt="" />
+									<!-- <img src="images/home/pricing.png" class="pricing" alt="" /> -->
 								</div>
 							</div>
 							
@@ -273,7 +359,7 @@
 						</div><!--/price-range-->
 						
 						<div class="shipping text-center"><!--shipping-->
-							<img src="images/home/shipping.jpg" alt="" />
+							<!-- <img src="images/home/shipping.jpg" alt="" /> -->
 						</div><!--/shipping-->
 					
 					</div>
@@ -444,7 +530,7 @@
 				<div class="row">
 					<div class="col-sm-2">
 						<div class="companyinfo">
-							<h2><span>e</span>-shopper</h2>
+							<h2><span>JARVEX</span></h2>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,sed do eiusmod tempor</p>
 						</div>
 					</div>
